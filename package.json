@@ -1,0 +1,15 @@
+{
+  "name": "flow-lints-declarations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "declaration.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.147.0"
+  }
+}

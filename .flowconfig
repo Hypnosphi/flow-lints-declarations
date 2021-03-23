@@ -1,0 +1,5 @@
+[declarations]
+<PROJECT_ROOT>/declaration.js
+
+[lints]
+unclear-type=error
